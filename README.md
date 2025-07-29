@@ -23,7 +23,7 @@
     }
     th {
       background-color: #222;
-      color: blue;
+      color: grey;
     }
     tr:nth-child(even) {
       background-color: #f9f9f9;
@@ -47,7 +47,7 @@
     </thead>
     <tbody>
       <tr><td>1</td><td>Malcolm Cloete</td><td>800</td><td>27</td><td>28</td><td>87</td><td>36</td><td>105</td><td>54</td><td>60</td><td>35</td><td>37</td></tr>
-      <tr><td>2</td><td>Nathan Buys</td><td>668</td><td>59</td><td>88</td><td>101</td><td>51</td><td>85</td><td>58</td><td>44</td><td>77</td><td>105</td></tr>
+      <tr><td>2</td><td>Nathan Buys</td><td>900</td><td>59</td><td>88</td><td>101</td><td>51</td><td>85</td><td>58</td><td>44</td><td>77</td><td>105</td></tr>
       <tr><td>3</td><td>Vaughan Manus</td><td>566</td><td>33</td><td>41</td><td>90</td><td>75</td><td>90</td><td>27</td><td>103</td><td>59</td><td>48</td></tr>
       <tr><td>4</td><td>Carlo Daniels</td><td>645</td><td>96</td><td>51</td><td>91</td><td>90</td><td>70</td><td>73</td><td>62</td><td>54</td><td>58</td></tr>
       <tr><td>5</td><td>Ryan Rwida</td><td>423</td><td>32</td><td>34</td><td>80</td><td>31</td><td>76</td><td>29</td><td>74</td><td>41</td><td>26</td></tr>
