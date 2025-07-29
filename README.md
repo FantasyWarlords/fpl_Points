@@ -23,7 +23,7 @@
     }
     th {
       background-color: #222;
-      color: white;
+      color: blue;
     }
     tr:nth-child(even) {
       background-color: #f9f9f9;
